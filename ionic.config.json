@@ -1,0 +1,7 @@
+{
+  "name": "appOrder",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
